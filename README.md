@@ -19,6 +19,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### The challenge / Screenshot
 
+<img width="434" alt="image" src="https://github.com/angela-tylee/article-preview-component/assets/145020731/5684b65c-150f-4fc8-9875-91497a78d1dc">
+<img width="1118" alt="image" src="https://github.com/angela-tylee/article-preview-component/assets/145020731/8c4ac7da-11ec-40fc-a9bc-f4d200c4a7c9">
 
 ### Links
 - Solution URL: https://github.com/angela-tylee/article-preview-component
