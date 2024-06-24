@@ -21,8 +21,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/angela-tylee/article-preview-component
+- Live Site URL: https://angela-tylee.github.io/article-preview-component/
 
 ## My process
 
